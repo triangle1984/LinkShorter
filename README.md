@@ -11,7 +11,7 @@ To
 ```
 https://domain/AMEeMsxK
 ```
-The new url will be just redirected to the original url
+The new url will be redirected to the original url
 
 There are many ways to shorten a link. Currently supported
 * REST API
@@ -28,5 +28,5 @@ Technology stack
 Configuration
 -------------
 * Run on port 8080
-* Swagger URI documentation/swagger-ui/index.html
+* Swagger URI /documentation/swagger-ui/index.html
 * Vaadin frontend URI /ui
